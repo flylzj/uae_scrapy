@@ -1,0 +1,11 @@
+build
+dist
+hooks
+*.txt
+*.csv
+*.xlsx
+*.spec
+venv
+.idea
+*.pyc
+__pycache__
